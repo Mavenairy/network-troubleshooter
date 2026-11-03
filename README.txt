@@ -1,0 +1,1 @@
+This project is an expert system designed to identify and solve common network problems. it uses a set predefined rules and user inputs to diagnose issues such as internet connection failures, slow network speed, and connectivity problems. Based on information provided, the system suggests possible causes and autofix them
